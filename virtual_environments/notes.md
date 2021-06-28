@@ -3,9 +3,9 @@
 ## Intro
 If you are working on multiple projects, you should concern yourself with dependencies. 
 
-> A virtual environment is a Python environment such that the Python interpreter, libraries and scripts installed into it are isolated from those installed in other virtual environments, and (by default) any libraries installed in a “system” Python, i.e., one which is installed as part of your operating system.[^1]
+> A virtual environment is a Python environment such that the Python interpreter, libraries and scripts installed into it are isolated from those installed in other virtual environments, and (by default) any libraries installed in a “system” Python, i.e., one which is installed as part of your operating system.
 
-[^1]: [Creation of virtual environments](https://docs.python.org/3/library/venv.html)
+- [Creation of virtual environments](https://docs.python.org/3/library/venv.html)
 
 
 ## Multiple Pythons
